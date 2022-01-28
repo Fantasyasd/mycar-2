@@ -1,8 +1,19 @@
-console.log("风吹稻花香")
-alert("666666");dasdakjsdas
-dasdakjsdas
-dasdakjs
-风吹稻花香
-dasdakjs
-dasdasfa
-dasdakjs
+1     1     1
+2           2
+3           3
+4           4 
+5
+6
+7
+8
+9
+
+
+
+
+
+dasdasdas  你写了1行      张万从这写了69行1-69
+你今天应该写70行代码
+但是你写的特别慢
+你只写了1行
+剩下的69行  张万替你写了
